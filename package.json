@@ -1,0 +1,17 @@
+{
+  "name": "5_room_problem_backend",
+  "version": "1.0.0",
+  "description": "Simple server that counts clicks on the 5_room_problem[https://mdjukan.github.io/5_room_problem/dist/index.html].",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
